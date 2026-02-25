@@ -1,5 +1,4 @@
-# Shopify Theme - Elizabeth Clean
-
+# Shopify Theme - Found
 A clean Shopify Online Store 2.0 theme built with Liquid and Tailwind CSS. This repository contains the theme source along with the compiled assets in `assets/`.
 
 ## Requirements
